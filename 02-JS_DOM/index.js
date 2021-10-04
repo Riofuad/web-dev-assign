@@ -35,7 +35,6 @@ addBtn.onclick = () => {
         }
     }
     showTasks() // calling showTasks function
-    // addBtn.classList.remove('active') // unactive the add button
 }
 
 // function to add task list inside ul
